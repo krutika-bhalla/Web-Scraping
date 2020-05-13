@@ -1,5 +1,5 @@
 <h1> Web-Scraping </h1>
-Web-Scraping using a Python module BeautifulSoup. 
+Web-Scraping using Python module BeautifulSoup. 
 
 1) The file name.py returns the links of searched item from the web page (bing in this case). It also renders back the Summary and Title of the link.
 
